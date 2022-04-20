@@ -10,9 +10,9 @@ Getting funds/donations has a difficult task for the people in need.
 Many a time, people require urgent donation and for that they need to reach out as many people as possible in a very less time in search of donors. 
 This donation website will bridge the gap between these needy people and donors. 
 
-<img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/master/screenshots/Screenshot%20(836).png" width="500" alt="Screenshot"/>    <img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/master/screenshots/Screenshot%20(837).png" width="500" alt="Screenshot"/>
+<img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/main/screenshots/Screenshot%20(836).png" width="500" alt="Screenshot"/>    <img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/main/screenshots/Screenshot%20(837).png" width="500" alt="Screenshot"/>
 
-<img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/master/screenshots/Screenshot%20(850).png" width="500" alt="Screenshot"/>   <img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/master/screenshots/Screenshot%20(868).png" width="500" alt="Screenshot"/>
+<img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/main/screenshots/Screenshot%20(850).png" width="500" alt="Screenshot"/>   <img src="https://github.com/GuptaVaibhav01/Joy-of-giving/blob/main/screenshots/Screenshot%20(868).png" width="500" alt="Screenshot"/>
 
 ## Installation
 To run locally, do the usual:
